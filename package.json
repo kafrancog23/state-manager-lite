@@ -1,0 +1,27 @@
+{
+  "name": "state-manager-lite",
+  "version": "1.0.0",
+  "description": "A lightweight state management library for React applications using Context API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kafrancog23/state-manager-lite.git"
+  },
+  "keywords": [
+    "state",
+    "manager",
+    "react"
+  ],
+  "author": "Kevin Franco <contacto@kevinfranco.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kafrancog23/state-manager-lite/issues"
+  },
+  "homepage": "https://github.com/kafrancog23/state-manager-lite#readme",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  }
+}
